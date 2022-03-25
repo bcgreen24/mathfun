@@ -1,5 +1,7 @@
 <?php
 
+namespace bcgreen24\MathFun;
+
 trait mathfun {
   public static function doubleIt(int $x) : int{
         return $x*2;

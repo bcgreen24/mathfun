@@ -1,4 +1,7 @@
 {
+    "name": "bcgreen24/mathfun",
+    "description": "Basic math functions",
+    "type": "library",
     "repositories": [{
         "type": "composer",
         "url": "https://github.com"
