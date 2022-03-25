@@ -10,5 +10,6 @@
             "url": "https://github.com/bcgreen24/mathfun",
             "type": "vcs"
         }
-    }
+    },
+    "require": {}
 }

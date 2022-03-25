@@ -1,6 +1,6 @@
 <?php
 
-trait {
+trait mathfun {
   public static function doubleIt(int $x) : int{
         return $x*2;
     }
