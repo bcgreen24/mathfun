@@ -4,7 +4,7 @@
     "type": "library",
     "repositories": [{
         "type": "composer",
-        "url": "https://github.com/bcgreen24"
+        "url": "https://github.com/bcgreen24/mathfun"
     }],
     "packages": {
         "name": "bcgreen24/mathfun",
