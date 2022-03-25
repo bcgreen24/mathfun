@@ -1,0 +1,17 @@
+{
+    "name": "bcgreen24/mathfun",
+    "description": "Basic math functions",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bcgreen24\\Mathfun\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "bcgreen24",
+        "email": "bcgreen@gmail.com"
+    }],
+    "minimum-stability": "stable",
+    "require": {}
+}
